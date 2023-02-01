@@ -1,4 +1,4 @@
-An inventory management desktop application for a small burger restaurant.
+An inventory management desktop application for a small burger restaurant. Built using C# Winforms and XML as a local database.
 
 Sign up:
 ![image](https://user-images.githubusercontent.com/64007723/216142058-cbadaff6-cc06-4349-bdb4-66a9864e36a8.png)
